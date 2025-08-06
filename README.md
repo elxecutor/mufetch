@@ -201,4 +201,4 @@ Contributions are welcome! Please read our [Contributing Guidelines](CONTRIBUTIN
 
 ## License
 
-MIT License - see LICENSE file for details.
+[MIT License](LICENSE) - see LICENSE file for details.
