@@ -9,6 +9,12 @@
 
 ---
 
+## Acknowledgments
+
+This project is originally created and maintained by [ashish0kumar](https://github.com/ashish0kumar/mufetch). Please visit the [original repository](https://github.com/ashish0kumar/mufetch) to show your support.
+
+---
+
 ## Features
 
 - **Beautiful terminal display** with album cover art and artist photos
@@ -188,6 +194,10 @@ This script will walk you through the authentication process and demonstrate var
 - Works on Linux, macOS, and Windows
 - Requires a terminal with true color support for best results
 - Supports clickable links in compatible terminals
+
+## Contributing
+
+Contributions are welcome! Please read our [Contributing Guidelines](CONTRIBUTING.md) before submitting pull requests or issues.
 
 ## License
 

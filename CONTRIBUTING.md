@@ -1,6 +1,8 @@
 # Contributing Guidelines
 
-Thank you for your interest in contributing to this project! We welcome contributions in the form of bug reports, feature requests, code improvements, and documentation enhancements. By contributing, you agree to follow these guidelines and our [Code of Conduct](CODE_OF_CONDUCT.md).
+Thank you for your interest in contributing to mufetch! This project is originally created and maintained by [ashish0kumar](https://github.com/ashish0kumar/mufetch). We welcome contributions in the form of bug reports, feature requests, code improvements, and documentation enhancements. By contributing, you agree to follow these guidelines and our [Code of Conduct](CODE_OF_CONDUCT.md).
+
+For more information about the project, please see our [README](README.md).
 
 ## Table of Contents
 - [Code of Conduct](#code-of-conduct)
@@ -20,7 +22,7 @@ When reporting a bug, please include:
 - **Screenshots or logs** if available.
 - **Information about your environment** (e.g., OS, software versions).
 
-Submit your bug report via the [issue tracker]({{REPO_URL}}/issues).
+Submit your bug report via the [issue tracker](https://github.com/ashish0kumar/mufetch/issues).
 
 ## How to Request a Feature
 For feature requests, please:
