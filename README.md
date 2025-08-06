@@ -11,7 +11,7 @@
 
 ## Acknowledgments
 
-This project is originally created and maintained by [ashish0kumar](https://github.com/ashish0kumar/mufetch). Please visit the [original repository](https://github.com/ashish0kumar/mufetch) to show your support.
+This project is originally created and maintained by [ashish0kumar](https://github.com/ashish0kumar). Please visit the [original repository](https://github.com/ashish0kumar/mufetch) to show your support.
 
 ---
 
